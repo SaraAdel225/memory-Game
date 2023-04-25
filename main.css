@@ -71,7 +71,7 @@
     left: 0px;
 }
 .start .content1 {
-    background-image: url(../img/background-design-template-befabd60ad000b606ee1ba90e0900ff2_screen.jpg);
+    background-image: url("./img/background-design-template-befabd60ad000b606ee1ba90e0900ff2_screen.jpg");
     background-size: cover;
     width: 600px;
     height: 400px;
